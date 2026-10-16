@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PS5Tracker.Probe/PS5Tracker.Probe.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PS5Tracker.Probe.Tests/PS5Tracker.Probe.Tests.csproj" />
+  </Folder>
+</Solution>
